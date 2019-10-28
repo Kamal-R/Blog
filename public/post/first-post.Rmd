@@ -1,0 +1,16 @@
+---
+title: 'First Post'
+date: '`r format(Sys.time(), "%Y-%m-%d")`'
+lastmod: '`r format(Sys.time(), "%Y-%m-%d")`'
+draft: false
+tags: ['First Post', 'Second Tag']
+categories: ['Misc.']
+
+weight: 10
+contentCopyright: MIT
+mathjax: true
+autoCollapseToc: true
+
+---
+
+# Markdown 
