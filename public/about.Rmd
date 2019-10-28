@@ -1,0 +1,11 @@
+---
+title: "About"
+date: '`r format(Sys.time(), "%Y-%m-%d")`'
+lastmod: '`r format(Sys.time(), "%Y-%m-%d")`'
+menu: "main"
+weight: 50
+
+---
+
+I'm a PhD student studying statistics at the University of Toronto, currently researching the health effects of air pollution. 
+
