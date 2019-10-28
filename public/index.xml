@@ -6,6 +6,7 @@
     <description>Recent content on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>Kamal</copyright>
     <lastBuildDate>Mon, 28 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -37,7 +38,7 @@
       <guid>/books/</guid>
       <description> This page collects some of my long-form writing.
 Understanding Options (Work in Progress)
- I wrote Understanding Options to explain options pricing and options strategies in a simple and intutive way. I avoid using terms like convexity or derivatives whenever possible, instead explaining concepts through pictures and examples. The book is a work in progress - only the first two chapters are finished. Comments and suggestions are welcome.  </description>
+ I wrote Understanding Options to explain options pricing and options strategies in a simple and intutive way. The book is a work in progress - only the first two chapters are finished. Comments and suggestions are welcome.  </description>
     </item>
     
   </channel>

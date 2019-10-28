@@ -9,7 +9,7 @@ This page collects some of my long-form writing.
 
 [Understanding Options](http://understanding-options.netlify.com) (Work in Progress)
 
-* I wrote [Understanding Options](http://understanding-options.netlify.com) to explain options pricing and options strategies in a simple and intutive way. I avoid using terms like *convexity* or *derivatives* whenever possible, instead explaining concepts through pictures and examples. The book is a work in progress - only the first two chapters are finished. Comments and suggestions are welcome. 
+* I wrote [Understanding Options](http://understanding-options.netlify.com) to explain options pricing and options strategies in a simple and intutive way. The book is a work in progress - only the first two chapters are finished. Comments and suggestions are welcome. 
 
 
 
