@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "http://kamal-rai.com"
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Even - A super concise theme for Hugo"
@@ -111,37 +111,8 @@ copyright = "Kamal"       # default: author.name ↓
   # Display a message at the beginning of an article to warn the readers that it's content may be outdated.
   [params.outdatedInfoWarning]
     enable = false
-    hint = 30               # Display hint if the last modified time is more than these days ago.  
-    warn = 180              # Display warning if the last modified time is more than these days ago. 
-
-  [params.gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
-    owner = ""              # Your GitHub ID
-    repo = ""               # The repo to store comments
-    clientId = ""           # Your client ID
-    clientSecret = ""       # Your client secret
-
-  [params.utterances]       # https://utteranc.es/
-    owner = ""              # Your GitHub ID
-    repo = ""               # The repo to store comments
-
-  [params.gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
-    owner = ""              # Your GitHub ID
-    repo = ""               # The repo to store comments
-    clientId = ""           # Your client ID
-    clientSecret = ""       # Your client secret
-
-  # Valine.
-  # You can get your appid and appkey from https://leancloud.cn
-  # more info please open https://valine.js.org
-  [params.valine]
-    enable = false
-    appId = '你的appId'
-    appKey = '你的appKey'
-    notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
-    verify = false # Verification code
-    avatar = 'mm' 
-    placeholder = '说点什么吧...'
-    visitor = false
+    hint = 365               # Display hint if the last modified time is more than these days ago.  
+    warn = 730               # Display warning if the last modified time is more than these days ago. 
 
   [params.flowchartDiagrams]# see https://blog.olowolo.com/example-site/post/js-flowchart-diagrams/
     enable = false
@@ -169,7 +140,6 @@ copyright = "Kamal"       # default: author.name ↓
   [privacy.youtube]
     privacyEnhanced = true
 
-# 将下面这段配置取消注释可以使 hugo 生成 .md 文件
 # Uncomment these options to make hugo output .md files.
 #[mediaTypes]
 #  [mediaTypes."text/plain"]
@@ -181,8 +151,8 @@ copyright = "Kamal"       # default: author.name ↓
 #  isHTML = false
 #
 #[outputs]
-#  home = ["HTML", "RSS"]
-#  page = ["HTML", "MarkDown"]
-#  section = ["HTML", "RSS"]
-#  taxonomy = ["HTML", "RSS"]
+#  home = ["HTML"]
+#  page = ["HTML"]
+#  section = ["HTML"]
+#  taxonomy = ["HTML"]
 #  taxonomyTerm = ["HTML"]
