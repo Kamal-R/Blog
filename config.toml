@@ -1,7 +1,7 @@
 baseURL = "http://kamal-rai.com"
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
-title = "Even - A super concise theme for Hugo"
+title = ""
 preserveTaxonomyNames = true
 enableRobotsTXT = true
 enableEmoji = true
@@ -53,9 +53,9 @@ copyright = ""            # default: author.name ↓
   gitRepo = ""
 
   # site info (optional)                                
-  logoTitle = "Even"        # default: the title value    
-  keywords = ["Hugo", "theme","even"]
-  description = "Hugo theme even example site."
+  logoTitle = "Small Steps"        # the title value    
+  keywords = ["Finance", "Options", "Machine Learning", "Education"]
+  description = "Outside the box thinking on finance, machine learning, and education."
 
   # paginate of archives, tags and categories           
   archivePaginate = 5
